@@ -1,2 +1,2 @@
 # views_plain
-Display style for Drupal 8 Views that gets rid of divitis
+Views display style that removes all the wrapper markup.
