@@ -1,11 +1,11 @@
 <?php
 
-namespace Drupal\views_plain_style\Plugin\views\style;
+namespace Drupal\views_plain\Plugin\views\style;
 
 use Drupal\views\Plugin\views\style\StylePluginBase;
 
 /**
- * Style plugin for the plain Views display style.
+ * Style plugin for the plain view.
  *
  * @ViewsStyle(
  *   id = "plain_style",
